@@ -27,3 +27,5 @@ Cool things:
 [💎 little lisp interpreter](https://github.com/skyzh/lisp-interpreter)
 |
 [📚 study with me](https://github.com/skyzh/notes)
+
+More about me: [Résumé](https://skyzh.xyz/resume.pdf) | [简历](https://skyzh.xyz/resume_cn.pdf) | [Academic Profile](https://skyzh.xyz/academic)
