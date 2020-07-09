@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex Chi
 
-Sophomore at [@SJTU-CSE](https://github.com/SJTU-CSE)
+Sophomore [@SJTU-CSE](https://github.com/SJTU-CSE)
 
 Reinvent the wheels:
 [⛵ easy Raft](https://github.com/skyzh/raft-kvs")
@@ -15,17 +15,5 @@ OSS Contribution: [tikv](https://github.com/tikv/tikv) | [SJTUG mirror](http://m
 
 Cool things:
 [🌈 real-time air quality](https://bluesense.skyzh.xyz)
-|
-[🌐 sync course materials](https://github.com/skyzh/canvas_grab)
-|
-[🎾 robot collects tennis](https://github.com/skyzh/tenitsu)
-|
-[🚆 visualize metro line](https://github.com/skyzh/Meteor)
-|
-[🎇 render julia sets](https://github.com/skyzh/julia.metal)
-|
-[💎 little lisp interpreter](https://github.com/skyzh/lisp-interpreter)
-|
-[📚 study with me](https://github.com/skyzh/notes)
 
 More about me: [Résumé](https://skyzh.xyz/resume.pdf) | [简历](https://skyzh.xyz/resume_cn.pdf) | [Academic Profile](https://skyzh.xyz/academic)
