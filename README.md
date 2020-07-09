@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Alex Chi
+### Hi there 👋
+
+I'm **Alex Chi**
 
 - Sophomore [@SJTU-CSE](https://github.com/SJTU-CSE)
 - Reinvent the wheels:
