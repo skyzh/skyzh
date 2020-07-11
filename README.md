@@ -4,7 +4,7 @@ I'm **Alex Chi**
 
 - Sophomore [@SJTU-CSE](https://github.com/SJTU-CSE)
 - Reinvent the wheels:
-  [⛵ easy Raft](https://github.com/skyzh/raft-kvs")
+  [⛵ easy Raft](https://github.com/skyzh/raft-kvs)
   |
   [🖥️ trivial OS](https://github.com/skyzh/core-os-riscv)
   |
