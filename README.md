@@ -2,7 +2,7 @@
 
 I'm **Alex Chi**
 
-- Sophomore [@SJTU-CSE](https://github.com/SJTU-CSE)
+- Junior [@SJTU-CSE](https://github.com/SJTU-CSE)
 - Reinvent the wheels:
   [⛵ easy Raft](https://github.com/skyzh/raft-kvs)
   |
