@@ -11,7 +11,7 @@ I'm **Alex Chi**
   [💻 plain CPU](https://github.com/skyzh/mips-simulator)
   |
   [⚡ simple raytracer](https://github.com/skyzh/raytracer.rs)
-- OSS contribution: [TiKV](https://github.com/tikv/tikv) | [SJTUG mirror](http://mirrors.sjtug.sjtu.edu.cn) | [awesome-cs](https://github.com/SJTU-CSE/awesome-cs)
+- OSS contribution: [TiKV](https://github.com/tikv/tikv) | [SJTUG mirror](http://mirrors.sjtug.sjtu.edu.cn) | [awesome-cs](https://github.com/SJTU-CSE/awesome-cs) ｜ [SJTU-Plus](https://plus.sjtu.edu.cn/)
 - Cool things:
   [🌈 real-time air quality](https://bluesense.skyzh.xyz)
 - More about me: [Academic Profile](https://skyzh.xyz/academic)
