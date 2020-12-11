@@ -15,5 +15,3 @@ I'm **Alex Chi**
 - Cool things:
   [🌈 real-time air quality](https://bluesense.skyzh.xyz)
 - More about me: [Academic Profile](https://skyzh.xyz/academic)
-
-[![Alex Chi's Github stats](https://github-readme-stats.vercel.app/api?username=skyzh&hide_rank=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
