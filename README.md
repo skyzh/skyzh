@@ -2,20 +2,20 @@
 
 *Study Computer Science. Reinvent the wheels. Code for fun. Make things happen.*
 
-I reinvent the wheels. &nbsp;
-[⛵ Easy KVStore](https://github.com/tikv/agatedb) &nbsp;
-[🖥️ Trivial OS](https://github.com/skyzh/core-os-riscv) &nbsp;
-[💻 Plain CPU](https://github.com/skyzh/mips-simulator) &nbsp;
+I reinvent the wheels.
+[⛵ Easy KVStore](https://github.com/tikv/agatedb)
+[🖥️ Trivial OS](https://github.com/skyzh/core-os-riscv)
+[💻 Plain CPU](https://github.com/skyzh/mips-simulator)
 [⚡ Simple Raytracer](https://github.com/skyzh/raytracer.rs)
 
-I contribute to open-source projects. &nbsp;
-[TiKV](https://github.com/tikv/tikv) &nbsp;
-[SJTUG mirror](http://mirrors.sjtug.sjtu.edu.cn) &nbsp;
-[awesome-cs](https://github.com/SJTU-CSE/awesome-cs) &nbsp;
+I contribute to open-source projects.
+[TiKV](https://github.com/tikv/tikv)
+[SJTUG mirror](http://mirrors.sjtug.sjtu.edu.cn)
+[awesome-cs](https://github.com/SJTU-CSE/awesome-cs)
 [SJTU-Plus](https://plus.sjtu.edu.cn/)
 
-And do some cool things. &nbsp;
+And do some cool things.
 [🌈 Real-Time Air Quality](https://bluesense.skyzh.dev)
 
-More about me. &nbsp;
+More about me.
 [Academic Profile](https://www.skyzh.dev/academic/)
