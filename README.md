@@ -16,6 +16,3 @@ And do some cool things.
 More about me.
 [Academic Profile](https://www.skyzh.dev/academic/) |
 [Blog (Chinese)](https://www.skyzh.dev/posts/)
-
-I'm looking for 2021 summer internship.
-[Résumé (Chinese)](https://www.skyzh.dev/files/resume_cn.pdf)
