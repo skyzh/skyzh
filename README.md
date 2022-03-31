@@ -6,8 +6,8 @@ I'm ...
 
 * Currently an intern at [Singularity Data](https://github.com/singularity-data/).
 * Expected to graduate from Shanghai Jiao Tong University in Summer 2022.
-* Planning to pursue a master's degree in Computer Science in the US.
-* Open to job opportunities (intern or full-time). Feel free to contact me. Download my CV [here](https://www.skyzh.dev/pages/cv).
+* Incoming graduate student of Carnegie Mellon University MSCS program.
+* Open to job opportunities (intern 2023 Summer or full-time 2024 Spring). Feel free to contact me. Download my CV [here](https://www.skyzh.dev/pages/cv).
 
 Also available at:
 
