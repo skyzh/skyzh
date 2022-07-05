@@ -3,7 +3,6 @@ Hi, I'm **Alex Chi**.
 I build database systems with the Rust programming language.
 
 * Currently an intern at [Singularity Data](https://github.com/singularity-data/).
-* Expected to graduate from Shanghai Jiao Tong University in Summer 2022.
 * Incoming graduate student of Carnegie Mellon University MSCS program.
 * [About me](https://www.skyzh.dev/pages/about/)
 
