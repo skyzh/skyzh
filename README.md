@@ -2,7 +2,7 @@ Hi, I’m **Alex Chi**.
 
 I build database systems with the Rust programming language.
 
-* Currently a master’s student in MSCS program at Carnegie Mellon University.
+* Currently a first-year master’s student in MSCS program at Carnegie Mellon University.
 * [About me](https://www.skyzh.dev/pages/about/)
 * [Curriculum Vitae](https://skyzh.github.io/files/cv.pdf)
 
