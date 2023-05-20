@@ -10,9 +10,5 @@ Hi, I'm Chi, currently a first-year master's student in Carnegie Mellon Universi
 
 * [About me](https://www.skyzh.dev/pages/about/)
 * [Curriculum Vitae](https://skyzh.github.io/files/cv.pdf)
-
-Also available at:
-
-* [LinkedIn](https://www.linkedin.com/in/alex-chi-skyzh/)
-* [中文博客 / Blog (in Chinese)](https://www.skyzh.dev/posts)
-* [Blog (in English)](https://www.skyzh.dev/posts-ng)
+* [Blog](https://www.skyzh.dev/posts-ng)
+* [中文博客 / Blog (Chinese)](https://www.skyzh.dev/posts)
