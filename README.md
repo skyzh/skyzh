@@ -10,5 +10,4 @@ Hi, I'm Chi, currently a first-year master's student in Carnegie Mellon Universi
 
 * [About me](https://www.skyzh.dev/pages/about/)
 * [Curriculum Vitae](https://skyzh.github.io/files/cv.pdf)
-* [Blog](https://www.skyzh.dev/posts-ng)
-* [中文博客 / Blog (Chinese)](https://www.skyzh.dev/posts)
+* [Blog](https://www.skyzh.dev/blog)
