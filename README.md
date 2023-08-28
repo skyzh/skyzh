@@ -1,4 +1,4 @@
-Hi, I'm Chi, currently a master's student in Carnegie Mellon University. I'm expected to graduate in Fall 2023.
+Hi, I'm Chi, currently a master's student in Carnegie Mellon University. I'm expected to graduate in December 2023.
 
 - I'm currently maintaining [RisingLight](https://github.com/risinglightdb/risinglight), an educational OLAP database system.
 - I'm also working on [BusTub](https://github.com/cmu-db/bustub) as a teaching assistant for CMU's intro to database course.
