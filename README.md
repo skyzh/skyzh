@@ -1,6 +1,6 @@
 Hi, I'm Chi, currently working [@neondatabase](https://github.com/neondatabase).
 
-Personal project hightlights:
+Personal project highlights:
 
 - [mini-lsm](https://github.com/skyzh/mini-lsm) build a storage engine in a week
 - [tiny-llm](https://github.com/skyzh/tiny-llm) build LLM serving infra in a week
