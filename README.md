@@ -1,4 +1,4 @@
-Hi, I'm Chi, currently working on [Lakebase aka Neon](https://neon.com) in Databricks.
+Hi, I'm Chi, currently working on Lakebase (aka [Neon](https://neon.com)) in Databricks.
 
 Personal project highlights:
 
